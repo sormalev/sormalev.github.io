@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sormalev.ruto.pl/sormalev.txt
